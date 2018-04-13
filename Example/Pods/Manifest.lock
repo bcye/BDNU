@@ -1,0 +1,22 @@
+PODS:
+  - BDNU (0.1.0)
+  - Nimble (7.0.3)
+  - Quick (1.2.0)
+
+DEPENDENCIES:
+  - BDNU (from `../`)
+  - Nimble (~> 7.0.2)
+  - Quick (~> 1.2.0)
+
+EXTERNAL SOURCES:
+  BDNU:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BDNU: 24b989a21c0f62969c42e418283668e4d65e144f
+  Nimble: 7f5a9c447a33002645a071bddafbfb24ea70e0ac
+  Quick: 58d203b1c5e27fff7229c4c1ae445ad7069a7a08
+
+PODFILE CHECKSUM: bb50be0c28c6658df267fcf2f0883aec68db2e66
+
+COCOAPODS: 1.4.0

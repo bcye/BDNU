@@ -1,0 +1,22 @@
+{
+  "name": "BDNU",
+  "version": "0.1.0",
+  "summary": "A short description of BDNU.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Bruce/BDNU",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bruce": "t15thbruce@outlook.de"
+  },
+  "source": {
+    "git": "https://github.com/Bruce/BDNU.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "BDNU/Classes/**/*"
+}

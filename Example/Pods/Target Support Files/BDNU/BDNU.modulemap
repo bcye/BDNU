@@ -1,0 +1,6 @@
+framework module BDNU {
+  umbrella header "BDNU-umbrella.h"
+
+  export *
+  module * { export * }
+}
