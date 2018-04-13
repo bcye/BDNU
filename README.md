@@ -1,6 +1,6 @@
 # BDNU
 
-[![CI Status](http://img.shields.io/travis/Bruce/BDNU.svg?style=flat)](https://travis-ci.org/Bruce/BDNU)
+[![CI Status](http://img.shields.io/travis/Bruce/BDNU.svg?style=flat)](https://travis-ci.org/bcye/BDNU)
 [![Version](https://img.shields.io/cocoapods/v/BDNU.svg?style=flat)](http://cocoapods.org/pods/BDNU)
 [![License](https://img.shields.io/cocoapods/l/BDNU.svg?style=flat)](http://cocoapods.org/pods/BDNU)
 [![Platform](https://img.shields.io/cocoapods/p/BDNU.svg?style=flat)](http://cocoapods.org/pods/BDNU)
