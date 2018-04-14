@@ -8,6 +8,10 @@ class TableOfContentsSpec: QuickSpec {
 override func spec() {
         describe("these will pass") {
             
+            it("can get currency symbol") {
+                expect("$") == 
+                
+            }
             it("can do maths") {
                 expect(23) == 23
             }
