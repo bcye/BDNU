@@ -20,7 +20,7 @@ pod 'BDNU'
 
 ## Author
 
-Bruce, t15thbruce@outlook.de
+Bruce Roettgers, t15thbruce@outlook.de
 
 ## License
 
