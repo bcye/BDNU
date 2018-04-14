@@ -8,8 +8,10 @@ class TableOfContentsSpec: QuickSpec {
 override func spec() {
         describe("these will pass") {
             
-            it("can get currency symbol") {
-                
+            it("can use Currency Utility") {
+                let germanLocale = Locale(identifier: "de_DE")
+                let currencySymbol = CurrencyUtility(region: germanLocale).getSymbol()
+                expect(currencySymbol) == "€"
             }
             it("can do maths") {
                 expect(23) == 23
